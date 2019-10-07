@@ -8,6 +8,6 @@ let package = Package(
     dependencies: [
         // Dependencies declare other packages that this package depends on.
         .package(url: "https://github.com/ArtSabintsev/FontBlaster", from: "5.1.0"),
-        .package(url: "https://github.com/zoonooz/ZFDragableModalTransition", from: "0.6.0"),
+        .package(url: "https://github.com/zoonooz/ZFDragableModalTransition", from: "1.0.0"),
     ]
 )
